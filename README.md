@@ -9,24 +9,25 @@ My name is Ethan and I'm a **final year CS student** passionate about **ML(RL) ,
 ## 🛠️ My Tech Stack
 
 <div style="display: flex;">
-
-<div style="width: 50%; padding-right: 10px;">
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bash" alt="Languages icons" />
-
-  <h4>Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=pytorch,spring,maven" alt="Frameworks icons" />
+    <div style="width: 50%; padding-right: 10px;">
+        <h4>Languages</h4>
+        <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bash" alt="Languages icons" />
+    </div>
+    <div style="width: 50%; padding-left: 10px;">
+        <h4>Frameworks</h4>
+        <img src="https://skillicons.dev/icons?i=pytorch,spring,maven" alt="Frameworks icons" />
+    </div>
 </div>
 
-<div style="width: 50%; padding-left: 10px;">
-  <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database icons" />
-
-  <h4>Container & Cloud DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure" alt="DevOps/Cloud icons" />
+<div style="display: flex;">
+    <div style="width: 50%; padding-right: 10px;">
+        <h4>Databases</h4>
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database icons" />
+    </div>
+    <div style="width: 50%; padding-left: 10px;">
+        <h4>Container & Cloud DevOps</h4>
+        <img src="https://skillicons.dev/icons?i=docker,aws,azure" alt="DevOps/Cloud icons" />
+    </div>
 </div>
 
-</div>
-<br />
-</div>
 <br />
