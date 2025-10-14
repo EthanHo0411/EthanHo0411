@@ -9,15 +9,9 @@ My name is Ethan and I'm a **final year CS student** passionate about **ML(RL) ,
 ## 🛠️ My Tech Stack
 <div style="display: flex;">
 <div style="width: 50%; padding-right: 10px;">
-  <h3>Languages</h3>
+  <p><h3>Languages</h3>   <h3>Container & Cloud DevOps</h3></p>
   <p>
     <img src="https://skillicons.dev/icons?i=py,java,sqlite,js,html,css,bash" alt="Languages icons" />     <img src="https://skillicons.dev/icons?i=docker,aws,azure" alt="DevOps/Cloud icons" />
-  </p>
-</div>
-<div style="width: 50%; padding-left: 10px;">
-  <h3>Container & Cloud DevOps</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker,aws,azure" alt="DevOps/Cloud icons" />
   </p>
 </div>
 </div>
