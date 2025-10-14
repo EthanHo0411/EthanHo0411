@@ -6,7 +6,6 @@ I'm a **final year computer science student** and a dedicated learner focusing o
 - 🌱 I’m currently learning **SQL, AWS Devops and Kubernetes**.
 - 👯 I'm currently studying for the **AWS Certified Solutions Architect - Associate** certificate
 - 📫 Reach me out on: **ethanho0411@gmail.com** or connect my <a href="https://linkedin.com/in/ethan-ho-zongyu/"> **linkedin** </a>👍
-
 ## 🧑‍💻 My Tech Stack
 | Category | Technologies |
 | :--- | :--- |
@@ -15,7 +14,6 @@ I'm a **final year computer science student** and a dedicated learner focusing o
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database icons" /> |
 | **Container & Cloud DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,azure" alt="DevOps/Cloud icons" /> |
 <br />
-
 ## GitHub Stats
 | Top Languages | Contribution Streak |
 | :--- | :--- |
