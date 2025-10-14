@@ -4,8 +4,6 @@
   
   <br />
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=yellow" alt="Profile views counter" />
-  
 </div>
 
 ---
@@ -18,8 +16,6 @@ I'm a **[Your Role/Title, e.g., Full-Stack Developer]** and a dedicated learner 
 - 🌱 I’m currently learning **[New Language/Framework, e.g., Rust and Kubernetes]**.
 - 👯 I’m looking to collaborate on **[Type of Project, e.g., open-source projects focused on web accessibility]**.
 - 📫 How to reach me: **[Your Email Address]** or connect via the links below!
-- 😄 Pronouns: **[He/Him, She/Her, They/Them, etc.]**
-- ⚡ Fun fact: **[A personal, non-coding fact about yourself]**
 
 ---
 
@@ -42,24 +38,10 @@ I'm a **[Your Role/Title, e.g., Full-Stack Developer]** and a dedicated learner 
 
 <br />
 
-## 🎵 Currently Listening (Optional)
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?username=YOUR-USERNAME&theme=novus&limit=5" alt="Spotify Listening Now" />
-</div>
-
-<br />
-
 ## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
