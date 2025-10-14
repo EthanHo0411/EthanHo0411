@@ -5,7 +5,7 @@ I'm a **final year computer science student** and a dedicated learner focusing o
 - 🔭 I'm currently working on my dissertation  **Novel RL algo for aligning LLM to human values**.
 - 🌱 I’m currently learning **SQL, AWS Devops and Kubernetes**.
 - 👯 I'm currently studying for the **AWS Certified Solutions Architect - Associate** certificate
-- 📫 Reach me out on: **ethanho0411@gmail.com** or connect my linkedin below 👍
+- 📫 Reach me out on: **ethanho0411@gmail.com** or connect my <a href="https://linkedin.com/in/ethan-ho-zongyu/"> **linkedin** </a>👍
 
 
 
@@ -25,11 +25,3 @@ I'm a **final year computer science student** and a dedicated learner focusing o
 | :--- | :--- |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHo0411&layout=compact&theme=radical" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=EthanHo0411&theme=radical" alt="GitHub Streak" /> |
 <br />
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ethan-ho-zongyu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
