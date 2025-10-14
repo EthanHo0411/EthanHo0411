@@ -23,7 +23,7 @@ I'm a **final year computer science student** and a dedicated learner focusing o
 
 | Overall Stats | Top Languages | Contribution Streak |
 | :--- | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=EthanHo0411&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHo0411&layout=compact&theme=radical" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=EthanHo0411&theme=radical" alt="GitHub Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHo0411&layout=compact&theme=radical" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=EthanHo0411&theme=radical" alt="GitHub Streak" /> |
 <br />
 
 ## 🔗 Connect with Me
