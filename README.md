@@ -1,25 +1,15 @@
-<div align="center">
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Hi%2C+I'm+YOUR-USERNAME!;Welcome+to+my+Github+Profile;I+Build+Things+with+Code." alt="Typing SVG" /></a>
-  
-  <br />
-  
-</div>
+## 👋 About Myself
 
----
+I'm a **[final year computer science student]** and a dedicated learner focusing on **[AI / ML(RL) , LLM and Cloud]**. My passion lies in building scalable, efficient, and user-friendly applications.
 
-## 👋 About Me
-
-I'm a **[Your Role/Title, e.g., Full-Stack Developer]** and a dedicated learner focusing on **[Your Main Interest, e.g., JavaScript and Cloud Architecture]**. My passion lies in building scalable, efficient, and user-friendly applications.
-
-- 🔭 I'm currently working on **[Project Name or Tech Stack]**.
-- 🌱 I’m currently learning **[New Language/Framework, e.g., Rust and Kubernetes]**.
+- 🔭 I'm currently working on my dissertation  **[Novel RL algo for aligning LLM to human values]**.
+- 🌱 I’m currently learning **[SQL, AWS Devops and Kubernetes]**.
 - 👯 I’m looking to collaborate on **[Type of Project, e.g., open-source projects focused on web accessibility]**.
-- 📫 How to reach me: **[Your Email Address]** or connect via the links below!
+- 📫 Reach me out on: **[Your Email Address]** or connect my linkedin below 👍
 
----
 
-## 🛠️ My Tech Stack
+
+## 🧑‍💻 My Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -27,15 +17,13 @@ I'm a **[Your Role/Title, e.g., Full-Stack Developer]** and a dedicated learner 
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=springboot,maven" alt="Frameworks icons" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database icons" /> |
 | **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,azure,kubernetes" alt="DevOps/Cloud icons" /> |
-
 <br />
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 | Overall Stats | Top Languages | Contribution Streak |
 | :--- | :--- | :--- |
 | <img src="https://github-readme-stats.vercel.app/api?username=EthanHo0411&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" /> |
-
 <br />
 
 ## 🔗 Connect with Me
