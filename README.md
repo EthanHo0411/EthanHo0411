@@ -1,11 +1,11 @@
 ## 👋 About Myself
 
-I'm a **[final year computer science student]** and a dedicated learner focusing on **[AI / ML(RL) , LLM and Cloud]**. My passion lies in building scalable, efficient, and user-friendly applications.
+I'm a **final year computer science student** and a dedicated learner focusing on **AI / ML(RL) , LLM and Cloud**. My passion lies in building scalable, efficient, and user-friendly applications.
 
-- 🔭 I'm currently working on my dissertation  **[Novel RL algo for aligning LLM to human values]**.
-- 🌱 I’m currently learning **[SQL, AWS Devops and Kubernetes]**.
-- 👯 I’m looking to collaborate on **[Type of Project, e.g., open-source projects focused on web accessibility]**.
-- 📫 Reach me out on: **[Your Email Address]** or connect my linkedin below 👍
+- 🔭 I'm currently working on my dissertation  **Novel RL algo for aligning LLM to human values**.
+- 🌱 I’m currently learning **SQL, AWS Devops and Kubernetes**.
+- 👯 I’m looking to collaborate on **Type of Project, e.g., open-source projects focused on web accessibility**.
+- 📫 Reach me out on: **ethanho0411@gmail.com** or connect my linkedin below 👍
 
 
 
@@ -13,7 +13,7 @@ I'm a **[final year computer science student]** and a dedicated learner focusing
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" alt="Languages icons" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,sql,js,html,css" alt="Languages icons" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=springboot,maven" alt="Frameworks icons" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database icons" /> |
 | **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,azure,kubernetes" alt="DevOps/Cloud icons" /> |
