@@ -34,14 +34,14 @@ I'm a **[Your Role/Title, e.g., Full-Stack Developer]** and a dedicated learner 
 
 | Overall Stats | Top Languages | Contribution Streak |
 | :--- | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=EthanHo0411&show_icons=true&theme=radical" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" /> | <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" /> |
 
 <br />
 
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-USERNAME">
+  <a href="https://linkedin.com/in/ethan-ho-zongyu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
