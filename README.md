@@ -13,10 +13,10 @@ I'm a **final year computer science student** and a dedicated learner focusing o
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,sql,js,html,css" alt="Languages icons" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=springboot,maven" alt="Frameworks icons" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database icons" /> |
-| **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,azure,kubernetes" alt="DevOps/Cloud icons" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,sqlite,js,html,css, bash" alt="Languages icons" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=pytorch,spring,maven" alt="Frameworks icons" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql" alt="Database icons" /> |
+| **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,azure" alt="DevOps/Cloud icons" /> |
 <br />
 
 ## GitHub Stats
