@@ -24,9 +24,9 @@ I'm a **[Your Role/Title, e.g., Full-Stack Developer]** and a dedicated learner 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" alt="Languages icons" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,spring" alt="Frameworks icons" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=springboot,maven" alt="Frameworks icons" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database icons" /> |
-| **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,kubernetes,jenkins" alt="DevOps/Cloud icons" /> |
+| **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,azure,kubernetes" alt="DevOps/Cloud icons" /> |
 
 <br />
 
