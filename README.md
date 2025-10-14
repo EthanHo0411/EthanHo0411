@@ -1,4 +1,4 @@
-## 👋 About Myself
+##  About Myself
 
 My name is Ethan and I'm a **final year CS student** passionate about **ML(RL) , LLM and Cloud** solutions.
 
