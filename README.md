@@ -8,7 +8,9 @@ My name is Ethan and I'm a **final year CS student** passionate about **ML(RL) ,
 - 📫 Reach me out on: **ethanho0411@gmail.com** or connect my <a href="https://linkedin.com/in/ethan-ho-zongyu/"> **linkedin** </a>👍
 ## 🛠️ My Tech Stack
 
-<div align="center">
+<div style="display: flex;">
+
+<div style="width: 50%; padding-right: 10px;">
   <h3>Languages</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bash" alt="Languages icons" />
@@ -18,7 +20,9 @@ My name is Ethan and I'm a **final year CS student** passionate about **ML(RL) ,
   <p>
     <img src="https://skillicons.dev/icons?i=pytorch,spring,maven" alt="Frameworks icons" />
   </p>
+</div>
 
+<div style="width: 50%; padding-left: 10px;">
   <h3>Databases</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database icons" />
@@ -28,5 +32,7 @@ My name is Ethan and I'm a **final year CS student** passionate about **ML(RL) ,
   <p>
     <img src="https://skillicons.dev/icons?i=docker,aws,azure" alt="DevOps/Cloud icons" />
   </p>
+</div>
+
 </div>
 <br />
