@@ -1,6 +1,6 @@
 ## 👋 About Myself
 
-I'm a **final year computer science student** and a dedicated learner focusing on **AI / ML(RL) , LLM and Cloud**. My passion lies in building scalable, efficient, and user-friendly applications.
+My name is Ethan and I'm a **final year CS student** passionate about **AI / ML(RL) , LLM and Cloud** solutions.
 
 - 🔭 I'm currently working on my dissertation  **Novel RL algo for aligning LLM to human values**.
 - 🌱 I’m currently learning **SQL, AWS Devops and Kubernetes**.
